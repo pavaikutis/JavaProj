@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="anagrams.DifficultyTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-05T02:33:39" hostname="Please-Get-Off-My-Spotify.local" time="0.005">
+  <properties/>
+  <testcase name="TestingModeTestOutput" classname="anagrams.DifficultyTests" time="0.003"/>
+  <testcase name="EasyModeTestRandom" classname="anagrams.DifficultyTests" time="0.001"/>
+  <testcase name="TestEasyLength" classname="anagrams.DifficultyTests" time="0.0"/>
+  <testcase name="HardModeTestRandom" classname="anagrams.DifficultyTests" time="0.0"/>
+  <testcase name="TestHardLength" classname="anagrams.DifficultyTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="anagrams.DictionaryTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-05T02:33:38" hostname="Please-Get-Off-My-Spotify.local" time="1.107">
+  <properties/>
+  <testcase name="checkScoreThree" classname="anagrams.DictionaryTests" time="0.339"/>
+  <testcase name="checkScoreFive" classname="anagrams.DictionaryTests" time="0.282"/>
+  <testcase name="checkScoreFour" classname="anagrams.DictionaryTests" time="0.156"/>
+  <testcase name="dictHasCorrectFiles" classname="anagrams.DictionaryTests" time="0.21"/>
+  <testcase name="checkScoreSix" classname="anagrams.DictionaryTests" time="0.119"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

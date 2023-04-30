@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="anagrams.ModelTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-12-05T02:33:39" hostname="Please-Get-Off-My-Spotify.local" time="1.33">
+  <properties/>
+  <testcase name="testClickEnter" classname="anagrams.ModelTest" time="0.313"/>
+  <testcase name="testGetScorePanel" classname="anagrams.ModelTest" time="0.138"/>
+  <testcase name="testClickTopLetter" classname="anagrams.ModelTest" time="0.126"/>
+  <testcase name="testSetDifficulty" classname="anagrams.ModelTest" time="0.165"/>
+  <testcase name="testGetTopLetters" classname="anagrams.ModelTest" time="0.131"/>
+  <testcase name="testGetBottomLetters" classname="anagrams.ModelTest" time="0.189"/>
+  <testcase name="testClickBottomLetter" classname="anagrams.ModelTest" time="0.119"/>
+  <testcase name="testModelConstructor" classname="anagrams.ModelTest" time="0.149"/>
+  <system-out><![CDATA[ABC
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
